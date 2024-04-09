@@ -1,4 +1,4 @@
-![Github Banner 3000x1000](https://github.com/BlockchainsHub/.github/assets/77204008/224041ec-bd66-41a9-8891-93606deee270)
+![Github Banner](https://github.com/BlockchainsHub/.github/assets/77204008/f9efc5af-c0fc-4db6-b95e-563757b11526)
 
 ## Introduction:
 Welcome to BlockHub, your trusted partner in Proof-of-Stake (PoS) validation services. Founded in 2023, BlockHub brings together a seasoned team with extensive experience in the cryptocurrency realm since 2017. Despite our relatively recent establishment, we carry the ambition and dedication necessary to deliver unparalleled services and support to our clients and the broader crypto community.
