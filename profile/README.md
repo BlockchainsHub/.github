@@ -21,3 +21,9 @@ At BlockHub, we are not merely validators; we are advocates for positive change 
 
 ## Connect With Us:
 Join us on our journey towards a decentralized future. Whether you're a blockchain project seeking reliable validation services or an enthusiast looking to engage with like-minded individuals, BlockHub welcomes you to connect with us on GitHub and other platforms.
+
+---------------------------------------------
+
+<p align="center">
+  &copy; 2023 BlockHub. All rights reserved.
+</p>
